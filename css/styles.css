@@ -448,7 +448,6 @@ img{
 .logo-last{
     display: inline-block;
     align-items: center;
-    margin-bottom: 16px;
     margin-right: 76px;
     color: var(--c-logo);
     font-family: Raleway, sans-serif;
